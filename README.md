@@ -2,7 +2,11 @@
 
 #### An entity extraction system for question type sentences (English).
 
+<<<<<<< HEAD
 ** To use this question understanding system, you will need to get a free liscensed C&C parser developed by Dr. Stephen Clark at Cambridge University <http://svn.ask.it.usyd.edu.au/trac/candc>. Unzip the parser home folder under AskGraph home folder. **
+=======
+**To use this question understanding system, you will need to get a free liscensed C&C parser developed by Dr. Stephen Clark at Cambridge University <http://svn.ask.it.usyd.edu.au/trac/candc>. Unzip the parser home folder under AskGraph home folder.**
+>>>>>>> 23e995ac68a5b690650fcf58891635273791a0e4
 
 ---
 
