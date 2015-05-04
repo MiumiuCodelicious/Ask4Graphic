@@ -3,9 +3,8 @@
 #### An entity extraction system for question type sentences (English).
 
 <<<<<<< HEAD
-** To use this question understanding system, you will need to get a free liscensed C&C parser developed by Dr. Stephen Clark at Cambridge University <http://svn.ask.it.usyd.edu.au/trac/candc>. Unzip the parser home folder under AskGraph home folder. **
+** This question understanding system uses a free liscensed C&C parser developed by Dr. Stephen Clark at Cambridge University <http://svn.ask.it.usyd.edu.au/trac/candc>. Under the AskGraph home folder, binaries of the C&C parser is located in candc-1.00 folder with its liscence. The C&C parser is liscensed only to non-profit uses. **
 =======
-**To use this question understanding system, you will need to get a free liscensed C&C parser developed by Dr. Stephen Clark at Cambridge University <http://svn.ask.it.usyd.edu.au/trac/candc>. Unzip the parser home folder under AskGraph home folder.**
 >>>>>>> 23e995ac68a5b690650fcf58891635273791a0e4
 
 ---
