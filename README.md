@@ -19,7 +19,7 @@ GraphicQuestion is an entity extraction and classification system for question s
 **Example question input**
 
 ```
-python AllQueries.py “How does the GDP of the top 5 countries compare?” 
+python AskGraphMain.py “How does the GDP of the top 5 countries compare?” 
 
 ```  
 **Ask4Graphics Output**
